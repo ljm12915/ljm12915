@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @LJM12914-edu
-- 👀 I’m interested in front-end designing and programming.
-- 🌱 I’m currently learning Javascript, PHP etc.
-- 📫 Reach me through my email.
+- 👋
